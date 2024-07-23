@@ -1,0 +1,44 @@
+[
+    {
+      "key": 1,
+      "title": "TalkMates",
+      "imageSrc": "assets/projects/chatapp.jpg",
+      "description": "TalkMates, built with the MERN stack, supports real-time messaging, emoji reactions.",
+      "source": "https://github.com/PoojaPanjwani01/TalkMates"
+    },
+    {
+      "key": 2,
+      "title": "Video Conference App",
+      "imageSrc": "assets/projects/video.jpg",
+      "description": "This Django-based video call app allows users to create rooms and communicate in real-time.",
+      "source": "https://github.com/PoojaPanjwani01/VideoCall"
+    },
+    {
+      "key": 3,
+      "title": "Heart Care",
+      "imageSrc": "assets/projects/heart.jpg",
+      "description": "HeartCare, using Machine Learning, predicts heart disease risks and analyzes ECG reports.",
+      "source":"https://github.com/PoojaPanjwani01/HeartCare"
+    },
+    {
+      "key": 4,
+      "title": "Chatpdf",
+      "imageSrc": "assets/projects/chatpdf.jpg",
+      "description": "ChatPDF lets users ask questions about their PDF files using LLM and Gemini API.",
+      "source":"https://github.com/PoojaPanjwani01/ChatPdf"
+    },
+    {
+      "key": 5,
+      "title": "Voice Assistant",
+      "imageSrc": "assets/projects/voice.jpg",
+      "description": "Engineered a robust voice assistant system for efficient task management.",
+      "source":"https://github.com/PoojaPanjwani01/VoiceAssistant"
+    },
+    {
+      "key": 6,
+      "title": "Vocal Vault",
+      "imageSrc": "assets/projects/expense.jpg",
+      "description": "Developed a user-friendly React JS expense tracker with voice command capabilities.",
+      "source":"https://github.com/PoojaPanjwani01/Vocal-Vault"
+    }
+  ]

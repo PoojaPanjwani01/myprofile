@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "title": "Python",
+    "description": "Completed Python Certification Course by UDEMY",
+    "link": "https://drive.google.com/file/d/1PIHagy2CdjrcoB6K5wJuaORffFNIhAdP/view"
+  },
+  {
+    "id": 2,
+    "title": "GenAI",
+    "description": "Completed GEN-AI Certification Course by LINKEDIN MICROSOFT",
+    "link": "https://drive.google.com/file/d/1GdWNA4tKLGRqrIykbkVgtx23QA_TQieA/view"
+  }
+]

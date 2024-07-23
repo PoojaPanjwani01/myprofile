@@ -1,0 +1,14 @@
+[
+   {
+      "id": 1,
+      "role": "AIML - Intern",
+      "organisation": "VESIT",
+      "startDate": "May 2024",
+      "endDate": "June 2024",
+      "location": "India",
+      "experiences": [
+        "Worked on a project"
+      ],
+      "imageSrc": "company/vesit.png"
+    }
+  ]
